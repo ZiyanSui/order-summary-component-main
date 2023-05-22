@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [olution URL here](https://www.frontendmentor.io/solutions/qr-code-component-2-WKYmqwmN)
-- Live Site URL: [live site URL here](https://vermillion-bienenstitch-198af0.netlify.app/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/ordersummarycomponent-TghQupJ0gP)
+- Live Site URL: [live site URL here](https://www.frontendmentor.io/solutions/ordersummarycomponent-TghQupJ0gP)
 
 ## My process
 
